@@ -19,14 +19,6 @@ const Projects = () => {
       github: "#",
       tech: ["Next.js", "Redux", "Django"],
     },
-    {
-      title: "Letter of Intent",
-      description: "In 2024, I was tasked with building a web application for a research institution to manage the Letter of Intent process.",
-      image: "/images/coming.png",
-      link: "#",
-      github: "#",
-      tech: ["Next.js", "Socket.io", "MongoDB", "tailwindcss"],
-    },
   ]
 
   return (
