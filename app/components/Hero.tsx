@@ -8,14 +8,14 @@ const Hero = () => {
   return (
     <section
       id="hero"
-      className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-white pt-16"
+      className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-900 to-slate-900 text-white pt-16"
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-8 md:mb-0 flex justify-center">
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-r from-cyan-400 to-purple-400 rounded-full blur-lg opacity-30 animate-pulse"></div>
             <Image
-              src="/images/davidprofile.jpg"
+              src="/images/port-image2.png"
               alt="David Malunga"
               width={400}
               height={400}
